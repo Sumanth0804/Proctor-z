@@ -13,7 +13,7 @@ A key design principle of ProctorZ is **privacy-first proctoring**: face and beh
 ## 🚀 Working Prototype
 
 🔗 **Live Working Prototype:**
-**[proctor-z.vercel.app]**
+**[https://proctor-z.vercel.app/]**
 
 The prototype demonstrates the complete examination workflow, including:
 
@@ -798,7 +798,7 @@ Deployed the frontend and backend as separate cloud services.
 ### 🚀 Try ProctorZ
 
 **Live Prototype:**
-**[proctor-z.vercel.app]**
+**[[proctor-z.vercel.app](https://proctor-z.vercel.app/)]**
 
 The prototype demonstrates the main functionality of the ProctorZ platform and provides an interactive view of the student, teacher, examination and proctoring workflows.
 
