@@ -808,6 +808,6 @@ The prototype demonstrates the main functionality of the ProctorZ platform and p
 
 **Sumanth Nagireddy**
 
-### ProctorZ Team
+### ProctorZ
 
 *Built with ❤️ to explore the future of secure, intelligent and privacy-focused online examinations.*
