@@ -757,10 +757,6 @@ Deployed the frontend and backend as separate cloud services.
 
 ---
 
-# 👨‍💻 Project Role
-
-**Role:** Full-Stack Developer / AI Integration
-
 ### Responsibilities
 
 * Designed the overall application architecture
