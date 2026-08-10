@@ -389,11 +389,11 @@ The overall architecture consists of three major layers.
                  ┌──────────────────────┐
                  │   Django Backend     │
                  │                      │
-                 │ REST APIs             │
-                 │ Authentication        │
-                 │ Exam Management       │
-                 │ Violation Management  │
-                 │ WebSocket Consumers   │
+                 │ REST APIs            │
+                 │ Authentication       │
+                 │ Exam Management      │
+                 │ Violation Management │
+                 │ WebSocket Consumers  │
                  └───────┬───────┬──────┘
                          │       │
                     MongoDB     Redis
@@ -408,9 +408,9 @@ The overall architecture consists of three major layers.
                  ┌──────────────────────┐
                  │  Teacher Dashboard   │
                  │                      │
-                 │ Live Monitoring       │
-                 │ Results               │
-                 │ Violation Analytics   │
+                 │ Live Monitoring      │
+                 │ Results              │
+                 │ Violation Analytics  │
                  └──────────────────────┘
 ```
 
